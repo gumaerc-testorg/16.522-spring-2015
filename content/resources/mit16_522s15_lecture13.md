@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the information regarding lecture 13 notes electrothermal
   augmentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-522-space-propulsion-spring-2015/af8098d74d4fd335bd832f1af53bf792_MIT16_522S15_Lecture13.pdf
+file: /media/courses/16-522-space-propulsion-spring-2015/af8098d74d4fd335bd832f1af53bf792_MIT16_522S15_Lecture13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 13 Notes: Electrothermal augmentation'
 uid: af8098d7-4d4f-d335-bd83-2f1af53bf792
