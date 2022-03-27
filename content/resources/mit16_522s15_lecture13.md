@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 35ee9188-780d-7a6f-7a6a-369ac1532e11
 resourcetype: Document
 title: 'Lecture 13 Notes: Electrothermal augmentation'
 uid: af8098d7-4d4f-d335-bd83-2f1af53bf792

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 35ee9188-780d-7a6f-7a6a-369ac1532e11
 resourcetype: Document
 title: 'Lecture 25 Notes: Electrodynamic tethers'
 uid: 207a375d-6f3f-1de8-d9cf-1271a406eacc

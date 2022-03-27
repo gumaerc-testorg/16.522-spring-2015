@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 35ee9188-780d-7a6f-7a6a-369ac1532e11
 resourcetype: Document
 title: 'Lecture 7 Notes: Sub-optimal Climb and Plane Change'
 uid: 18055c5e-e267-2b1f-815e-a344729dbb82

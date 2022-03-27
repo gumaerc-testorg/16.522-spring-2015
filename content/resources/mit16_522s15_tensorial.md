@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c1300c9d-1b2c-a592-3cce-24633b6b329d
 resourcetype: Document
 title: '16.522 Spring 2015 Lab Project: Tensorial Notation'
 uid: 1d34b82f-a89e-1cda-e55c-c1eea51a36d8

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 35ee9188-780d-7a6f-7a6a-369ac1532e11
 resourcetype: Document
 title: 'Lecture 6 Notes: Analytical approximations for low thrust maneuvers'
 uid: 7f725e54-b9be-2011-64d5-6ebbd5e08023

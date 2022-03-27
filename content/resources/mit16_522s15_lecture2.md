@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 35ee9188-780d-7a6f-7a6a-369ac1532e11
 resourcetype: Document
 title: 'Lecture 2 Notes: Fundamentals and Definitions'
 uid: d560a31b-4f2a-44eb-ac17-fa3f32143602

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 35ee9188-780d-7a6f-7a6a-369ac1532e11
 resourcetype: Document
 title: 'Lecture 9 Notes: Overview of the Physics in the Plasma Sheath'
 uid: 0bd5cd04-b204-0f23-24f3-d6a78e8fb15b

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c1300c9d-1b2c-a592-3cce-24633b6b329d
 resourcetype: Document
 title: '16.522 Spring 2015 Lab Project: Assignment Description'
 uid: 43c2279c-094c-bca5-2486-b4b152127517

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 35ee9188-780d-7a6f-7a6a-369ac1532e11
 resourcetype: Document
 title: 'Lecture 19 Notes: Plasma accelerators / Magnetoplasmadynamic (MPD) thrusters'
 uid: 38dd1641-a7e0-88aa-1760-801b4c256300

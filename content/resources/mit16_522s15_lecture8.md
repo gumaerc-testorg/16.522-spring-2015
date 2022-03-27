@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 35ee9188-780d-7a6f-7a6a-369ac1532e11
 resourcetype: Document
 title: 'Lecture 8 Notes: Basic Electromagnetic Theory and Plasma Physics'
 uid: 9c1d071b-eab6-046f-1a03-bccf7c42ca38

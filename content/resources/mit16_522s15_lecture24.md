@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 35ee9188-780d-7a6f-7a6a-369ac1532e11
 resourcetype: Document
 title: 'Lecture 24 Notes: Ion emission and the pure ionic regime'
 uid: b0731af9-25c3-744a-c462-e159b8a2d86f

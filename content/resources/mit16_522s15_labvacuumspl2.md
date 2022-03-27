@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c1300c9d-1b2c-a592-3cce-24633b6b329d
 resourcetype: Document
 title: '16.522 Spring 2015 Lab Project: Vacuum Chamber Procedures'
 uid: 1d6b18df-b525-9d8f-ddf8-ec9105857b2c

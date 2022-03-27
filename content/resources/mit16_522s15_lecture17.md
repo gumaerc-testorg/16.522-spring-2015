@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 35ee9188-780d-7a6f-7a6a-369ac1532e11
 resourcetype: Document
 title: 'Lecture 17 Notes: Hall thruster efficiency'
 uid: 9e0fd7c9-42c5-809f-b226-d67f56d3dfa5

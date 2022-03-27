@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c1300c9d-1b2c-a592-3cce-24633b6b329d
 resourcetype: Document
 title: '16.522 Spring 2015 Lab project: TRL NASA Definitions'
 uid: a6af1444-9a72-1114-7b84-14170a4a45a8
