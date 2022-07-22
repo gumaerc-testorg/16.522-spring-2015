@@ -6,6 +6,7 @@ file: /courses/16-522-space-propulsion-spring-2015/3744f71be5e9eb20c6e8d1dfb2ed4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 1 Notes: Introduction'
 uid: 3744f71b-e5e9-eb20-c6e8-d1dfb2ed4501
 ---
 This resource contains the information regarding lecture 1 notes introduction .
-

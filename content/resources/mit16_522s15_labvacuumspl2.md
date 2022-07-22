@@ -5,6 +5,7 @@ file: /courses/16-522-space-propulsion-spring-2015/1d6b18dfb5259d8fddf8ec9105857
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '16.522 Spring 2015 Lab Project: Vacuum Chamber Procedures'
 uid: 1d6b18df-b525-9d8f-ddf8-ec9105857b2c
 ---
 This file contains information regarding vacuum chamber procedures.
-

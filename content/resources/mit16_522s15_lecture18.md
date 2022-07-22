@@ -6,6 +6,7 @@ file: /courses/16-522-space-propulsion-spring-2015/55ac528364c79b0f579fb92d02ec8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 18 Notes: Hall thrusters: fluid model of the discharge'
 uid: 55ac5283-64c7-9b0f-579f-b92d02ec8bf1
 ---
 This resource contains the information regarding lecture 18 notes hall thrusters fluid model of the discharge.
-

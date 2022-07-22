@@ -6,6 +6,7 @@ file: /courses/16-522-space-propulsion-spring-2015/38dd1641a7e088aa1760801b4c256
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 19 Notes: Plasma accelerators / Magnetoplasmadynamic (MPD) thrus
 uid: 38dd1641-a7e0-88aa-1760-801b4c256300
 ---
 This resource contains the information regarding lecture 19 notes plasma accelerators / magnetoplasmadynamic (MPD) thrusters .
-

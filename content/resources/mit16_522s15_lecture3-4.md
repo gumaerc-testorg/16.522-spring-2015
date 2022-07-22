@@ -6,6 +6,7 @@ file: /courses/16-522-space-propulsion-spring-2015/0a041f5862654c42025184fe2abe2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 3-4 Notes: Mission analysis'
 uid: 0a041f58-6265-4c42-0251-84fe2abe2cc8
 ---
 This resource contains the information regarding lecture 3-4 notes mission analysis.
-

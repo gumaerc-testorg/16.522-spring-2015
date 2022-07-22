@@ -6,6 +6,7 @@ file: /courses/16-522-space-propulsion-spring-2015/f75aff05ced89738d59d0a388f94d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 15 Notes: Arcjet thrusters'
 uid: f75aff05-ced8-9738-d59d-0a388f94dc1e
 ---
 This resource contains the information regarding lecture 15 notes arcjet thrusters.
-

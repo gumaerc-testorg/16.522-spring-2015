@@ -6,6 +6,7 @@ file: /courses/16-522-space-propulsion-spring-2015/6127948308ccbe73c1c44751e2509
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 5 Notes: Review of classical astrodynamics'
 uid: 61279483-08cc-be73-c1c4-4751e2509ae0
 ---
 This resource contains the information regarding lecture 5 notes review of classical astrodynamics.
-
