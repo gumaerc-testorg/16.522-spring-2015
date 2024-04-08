@@ -28,15 +28,15 @@ This course covers the fundamentals of rocket propulsion and discusses advanced 
 Training Requirements
 ---------------------
 
-For the laboratory project, students were required to go through the [MIT-EHS](https://ehs.mit.edu/site/) safety training before gaining access to the laboratory. In addition, specific training at the MIT [Space Propulsion Laboratory (SPL)](http://spl.mit.edu/) was required.
+For the laboratory project, students were required to go through the {{% resource_link "fcf29736-84e7-47ff-b62c-16af46bd94fe" "MIT-EHS" %}} safety training before gaining access to the laboratory. In addition, specific training at the MIT {{% resource_link "fbfdf82b-caf9-4370-acee-b19e64c5ffee" "Space Propulsion Laboratory (SPL)" %}} was required.
 
 Textbook and Additional Resources
 ---------------------------------
 
 *   Jahn, Robert G. _Physics of Electric Propulsion_. Dover Publications, 2006. ISBN: 9780486450407.
-*   [Journal of Propulsion and Power](http://arc.aiaa.org/loi/jpp)
-*   [Journal of Spacecraft and Rockets](http://arc.aiaa.org/loi/jsr)
-*   Other Journals in Applied Physics, including the [Journal of Applied Physics](http://scitation.aip.org/content/aip/journal/jap?gclid=CIj9kuSTuMYCFQmCaQodejcHcg), and Plasma Physics Journals such as the [Journal of Plasma Physics](http://journals.cambridge.org/action/displayJournal?jid=PLA) or [Plasma Physics and Controlled Fusion](http://iopscience.iop.org/0741-3335)
+*   {{% resource_link "3274d124-35c2-4110-b4ab-b29ccdc29d15" "Journal of Propulsion and Power" %}}
+*   {{% resource_link "e9f1b2f2-28c5-4135-a5ab-559c4a06ac09" "Journal of Spacecraft and Rockets" %}}
+*   Other Journals in Applied Physics, including the {{% resource_link "cecf3227-e20e-4c07-8e67-66e0f62d315e" "Journal of Applied Physics" %}}, and Plasma Physics Journals such as the {{% resource_link "6adbb3cb-6260-4242-afe4-442706523bc6" "Journal of Plasma Physics" %}} or {{% resource_link "27337e81-8be7-4e79-ac0d-9cd5aa64c9ee" "Plasma Physics and Controlled Fusion" %}}
 
 Grading
 -------
