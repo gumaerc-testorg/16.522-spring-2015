@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding lecture 18 notes hall
   thrusters fluid model of the discharge.
 file: /courses/16-522-space-propulsion-spring-2015/55ac528364c79b0f579fb92d02ec8bf1_MIT16_522S15_Lecture18.pdf
+file_size: 819311
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
