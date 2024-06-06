@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding assignment description.
 file: /courses/16-522-space-propulsion-spring-2015/43c2279c094cbca52486b4b152127517_MIT16_522S15_LabAssignment.pdf
+file_size: 163143
 file_type: application/pdf
 learning_resource_types:
 - Assignments

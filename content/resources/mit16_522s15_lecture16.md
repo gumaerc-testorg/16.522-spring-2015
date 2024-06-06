@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding lecture 16 notes hall
   thrusters .
 file: /courses/16-522-space-propulsion-spring-2015/a275de9b17e8ff642c742632a0c5f380_MIT16_522S15_Lecture16.pdf
+file_size: 404318
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

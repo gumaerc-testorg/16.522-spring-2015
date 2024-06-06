@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding lecture 8 notes basic
   electromagnetic theory and plasma physics .
 file: /courses/16-522-space-propulsion-spring-2015/9c1d071beab6046f1a03bccf7c42ca38_MIT16_522S15_Lecture8.pdf
+file_size: 350347
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
