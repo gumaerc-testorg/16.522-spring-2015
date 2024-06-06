@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding lecture 6 notes analytical
   approximations for low thrust maneuvers.
 file: /courses/16-522-space-propulsion-spring-2015/7f725e54b9be201164d56ebbd5e08023_MIT16_522S15_Lecture6.pdf
+file_size: 348550
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
