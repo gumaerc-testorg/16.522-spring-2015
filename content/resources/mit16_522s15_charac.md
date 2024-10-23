@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding characterization.
-file: /courses/16-522-space-propulsion-spring-2015/f90122655c5e1521be7a83aa91906295_MIT16_522S15_Charac.pdf
+file: /ol-ocw-studio-app/courses/16-522-space-propulsion-spring-2015/f90122655c5e1521be7a83aa91906295_MIT16_522S15_Charac.pdf
 file_size: 3851859
 file_type: application/pdf
 learning_resource_types:
