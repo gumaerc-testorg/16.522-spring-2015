@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding lecture 15 notes arcjet
   thrusters.
-file: /courses/16-522-space-propulsion-spring-2015/f75aff05ced89738d59d0a388f94dc1e_MIT16_522S15_Lecture15.pdf
+file: /ol-ocw-studio-app/courses/16-522-space-propulsion-spring-2015/f75aff05ced89738d59d0a388f94dc1e_MIT16_522S15_Lecture15.pdf
 file_size: 317616
 file_type: application/pdf
 learning_resource_types:

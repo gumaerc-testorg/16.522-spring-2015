@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding tensorial notation.
-file: /courses/16-522-space-propulsion-spring-2015/1d34b82fa89e1cdae55cc1eea51a36d8_MIT16_522S15_Tensorial.pdf
+file: /ol-ocw-studio-app/courses/16-522-space-propulsion-spring-2015/1d34b82fa89e1cdae55cc1eea51a36d8_MIT16_522S15_Tensorial.pdf
 file_size: 864836
 file_type: application/pdf
 learning_resource_types:
