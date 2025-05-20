@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding lecture 9 notes overview
   of the Physics in the Plasma Sheath.
-file: /ol-ocw-studio-app/courses/16-522-space-propulsion-spring-2015/0bd5cd04b2040f2324f3d6a78e8fb15b_MIT16_522S15_Lecture9.pdf
+file: /courses/16-522-space-propulsion-spring-2015/0bd5cd04b2040f2324f3d6a78e8fb15b_MIT16_522S15_Lecture9.pdf
 file_size: 276816
 file_type: application/pdf
 learning_resource_types:
