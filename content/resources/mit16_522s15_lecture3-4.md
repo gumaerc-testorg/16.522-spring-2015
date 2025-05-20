@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding lecture 3-4 notes mission
   analysis.
-file: /ol-ocw-studio-app/courses/16-522-space-propulsion-spring-2015/0a041f5862654c42025184fe2abe2cc8_MIT16_522S15_Lecture3-4.pdf
+file: /courses/16-522-space-propulsion-spring-2015/0a041f5862654c42025184fe2abe2cc8_MIT16_522S15_Lecture3-4.pdf
 file_size: 324171
 file_type: application/pdf
 learning_resource_types:
