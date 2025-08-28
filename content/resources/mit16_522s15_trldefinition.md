@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding TRL NASA definitions.
-file: /courses/16-522-space-propulsion-spring-2015/a6af14449a7211147b8414170a4a45a8_MIT16_522S15_TRLDefinition.pdf
+file: /ol-ocw-studio-app/courses/16-522-space-propulsion-spring-2015/a6af14449a7211147b8414170a4a45a8_MIT16_522S15_TRLDefinition.pdf
 file_size: 236999
 file_type: application/pdf
 learning_resource_types:
